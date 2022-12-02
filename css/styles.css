@@ -91,6 +91,11 @@ header nav li a{
     align-items: center;
 }
 
+.hero-section .hero-inner .column-right img{
+    width: 400px;
+    border-radius: 50%;
+}
+
 .posts-section{
     background-color: #EDF7FA;
     padding: 32px 0;
